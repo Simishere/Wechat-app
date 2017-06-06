@@ -1,0 +1,9 @@
+<view class="cnt">
+    <image  class="avatar" src="/images/avatar.png"></image>
+    
+         <text class="motto">Hello</text>
+   
+    <view class="start-cnt" bindtap="onTap">
+        <text class="start">快来戳我QvQ</text>
+    </view>
+</view>
